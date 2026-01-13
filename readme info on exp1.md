@@ -100,7 +100,7 @@ This module helps perform advanced mathematical operations easily and accurately
 2. Accept the radius of the circle from the user.
 3. Calculate the area using the formula: π × r².
 4. Display the calculated area.
-
+NOTE: THE COMMAND FOR FINDING THE AREA OF A CIRCLE IS (math.pi*R**2). 
 ---
 
 ### 6. Logarithmic Calculation
