@@ -77,7 +77,22 @@ This module helps perform advanced mathematical operations easily and accurately
 
 ---
 
-### 4. Area of a Circle Using Math Library
+### 4. Mini Calculator Using Arithmetic Operators
+
+**Algorithm:**
+
+1. Accept two numerical values `a` and `b` from the user.
+2. Perform addition using `a + b` and display the result.
+3. Perform subtraction using `a - b` and display the result.
+4. Perform multiplication using `a * b` and display the result.
+5. Perform division using `a / b` and display the result.
+6. Perform modulus operation using `a % b`.
+7. Perform exponential operation using `a ** b`.
+8. Display all calculated results clearly.
+
+---
+
+### 5. Area of a Circle Using Math Library
 
 **Algorithm:**
 
@@ -88,7 +103,7 @@ This module helps perform advanced mathematical operations easily and accurately
 
 ---
 
-### 5. Logarithmic Calculation
+### 6. Logarithmic Calculation
 
 **Algorithm:**
 
@@ -99,7 +114,7 @@ This module helps perform advanced mathematical operations easily and accurately
 
 ---
 
-### 6. Comparison of Two Numbers Using Conditional Statements
+### 7. Comparison of Two Numbers Using Conditional Statements
 
 **Algorithm:**
 
@@ -111,7 +126,7 @@ This module helps perform advanced mathematical operations easily and accurately
 
 ## Conclusion
 
-In this experiment, fundamental Python programming concepts were successfully implemented. The experiment introduced variable declaration, identification of data types, user input handling, conditional logic, and mathematical computations using the `math` library. These programs provide a strong foundation for understanding Python syntax and logical flow, which is essential for advanced programming and problem-solving tasks.
+In this experiment, fundamental Python programming concepts were successfully implemented. Special emphasis was given to arithmetic operations by developing a mini calculator using operators such as addition, subtraction, multiplication, and division. Along with this, the experiment covered variable declaration, identification of data types, user input handling, conditional logic, and mathematical computations using the `math` library. Overall, this experiment provided a strong foundation in Python programming and logical problem-solving, which is essential for advanced applications.
 
 ---
 
