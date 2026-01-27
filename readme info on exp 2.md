@@ -29,84 +29,8 @@ In this experiment, lists were used to perform basic operations such as indexing
 
 ## Algorithms
 
-### 1. Creating and Printing a List
 
-**Steps:**
-
-1. Create a list with string elements.
-2. Print the list using the `print()` function.
-
----
-
-### 2. Creating a Mixed Data Type List
-
-**Steps:**
-
-1. Create a list containing integer, float, string, and boolean values.
-2. Display the list.
-
----
-
-### 3. Duplicate Elements in a List
-
-**Steps:**
-
-1. Create a list with repeated elements.
-2. Print the list to show that duplicates are allowed.
-
----
-
-### 4. Indexing and Slicing
-
-**Steps:**
-
-1. Create a list with multiple elements.
-2. Access elements using index values.
-3. Display the selected elements.
-
----
-
-### 5. Replacing an Element in a List
-
-**Steps:**
-
-1. Create a list.
-2. Replace an element at a specific index.
-3. Print the updated list.
-
----
-
-### 6. Adding an Element Using `append()`
-
-**Steps:**
-
-1. Create a list.
-2. Add a new element at the end using `append()`.
-3. Print the list.
-
----
-
-### 7. Adding an Element Using `insert()`
-
-**Steps:**
-
-1. Create a list.
-2. Insert an element at a given position.
-3. Print the updated list.
-
----
-
-### 8. Combining Two Lists
-
-**Steps:**
-
-1. Create two different lists.
-2. Combine them using the `+` operator or `extend()` method.
-3. Print the final list.
-
----
-
-### 9. DIY 1: Marks List Program
+### DIY 1: Marks List Program
 
 **Steps:**
 
@@ -117,7 +41,7 @@ In this experiment, lists were used to perform basic operations such as indexing
 
 ---
 
-### 10. DIY 2: Grocery List Program
+### DIY 2: Grocery List Program
 
 **Steps:**
 
