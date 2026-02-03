@@ -2,58 +2,94 @@
 
 ## Aim
 
-To study and understand the concept of **tuples in Python** and perform basic operations on tuples using simple programs.
+To study the concept of **tuples in Python** and understand their properties and usage through basic programs and DIY problem statements.
 
 ---
 
 ## Theory
 
-A **tuple** in Python is an ordered collection of elements enclosed within parentheses `()`. Tuples are **immutable**, meaning once a tuple is created, its elements cannot be changed. Tuples can store multiple values of different data types such as integers, floats, strings, etc.
+A **tuple** in Python is an ordered collection of elements enclosed in parentheses `()`. Tuples can store elements of different data types such as integers, floats, and strings.
 
-Key characteristics of tuples:
+### Features of Tuples
 
-* Ordered
-* Immutable
-* Allows duplicate values
-* Can store different data types
+* **Ordered:** Elements have a fixed position.
+* **Immutable:** Once created, elements cannot be changed.
+* **Allows duplicates:** Same values can appear multiple times.
+* **Supports mixed data types.**
 
 Example:
 
-```python
-t = (10, 20, "python", 3.5)
+```
+t = (10, "apple", 3.5)
 ```
 
-Tuples are mainly used when the data should remain constant throughout the program.
+### Tuple Operations
+
+* **Indexing:** Access elements using position numbers.
+* **Slicing:** Extract a part of a tuple using `start:end`.
+* **Concatenation:** Combine tuples using `+`.
+* **Repetition:** Repeat elements using `*`.
+* **Length:** `len()` gives number of elements.
+* **Built-in functions:** `max()`, `min()`, and `sum()` work on numeric tuples.
+
+### Tuple Packing and Unpacking
+
+Tuple packing means storing multiple values in one tuple. Unpacking means assigning tuple elements to variables.
+
+Example:
+
+```
+student = ("Math", 85, "A")
+sub, marks, grade = student
+```
+
+Tuples are useful when data should remain constant and not be modified accidentally.
 
 ---
 
-## Algorithms
+## Algorithms (DIY Questions Only)
 
-### DIY Question 1: Operations on Tuple
+### DIY Problem 1: Student Marks Analysis
 
 **Steps:**
 
-1. Create a tuple with multiple elements.
-2. Access elements of the tuple using indexing.
-3. Display selected elements of the tuple.
-4. Print the complete tuple.
+1. Create a tuple containing marks of students.
+2. Use `max()` to find highest marks.
+3. Use `min()` to find lowest marks.
+4. Use `len()` to find total students.
+5. Use `sum()` to find total marks.
+6. Calculate average using total marks divided by number of students.
+7. Display all results.
 
 ---
 
-### DIY Question 2: Tuple Properties Program
+### DIY Problem 2: Student Result Evaluation
 
 **Steps:**
 
-1. Create a tuple with different values.
-2. Find the length of the tuple.
-3. Access elements using slicing.
-4. Display the results.
+1. Create a tuple containing subject name, marks, and grade.
+2. Unpack the tuple into three variables.
+3. Display subject, marks, and grade separately.
+4. Check if marks are 75 or more.
+5. Print "Distinction" if condition is satisfied.
+
+---
+
+### DIY Problem 3: Attendance Record Analysis
+
+**Steps:**
+
+1. Create a tuple storing attendance using "P" and "A".
+2. Count number of "P" for present days.
+3. Count number of "A" for absent days.
+4. Check if "A" exists in the tuple.
+5. Display appropriate attendance message.
 
 ---
 
 ## Conclusion
 
-In this experiment, the concept of tuples in Python was studied and implemented. The programs demonstrated how tuples are created, accessed, and used in programs. The immutability of tuples was also understood. This experiment helped in learning how tuples can be used to store fixed data efficiently in Python programs.
+In this experiment, tuples in Python were studied and implemented. Tuple creation, indexing, slicing, packing, and unpacking were understood. The DIY problems showed how tuples can be used in real-life situations like marks analysis and attendance tracking. This experiment helped in understanding the importance of immutable data structures in Python.
 
 ---
 
