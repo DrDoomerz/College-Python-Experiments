@@ -10,8 +10,6 @@ To study and implement **conditional statements in Python** using `if`, `if-else
 
 Conditional statements in Python are used for **decision making**. They allow a program to execute specific code blocks based on whether a condition is true or false.
 
----
-
 ##  1. if Statement
 
 The `if` statement executes a block of code only when the condition is true.
@@ -21,8 +19,6 @@ if condition:
     statement
 ```
 
----
-
 ##  2. if-else Statement
 
 Used when there are two possible outcomes:
@@ -30,15 +26,11 @@ Used when there are two possible outcomes:
 - If condition is true → first block executes  
 - If false → second block executes  
 
----
-
 ##  3. if-elif-else Statement
 
 Used when multiple conditions are checked.
 
 Python evaluates conditions from top to bottom and executes the first true condition.
-
----
 
 ##  4. Comparison Operators
 
@@ -51,8 +43,6 @@ Python evaluates conditions from top to bottom and executes the first true condi
 | `==` | Equal to |
 | `!=` | Not equal to |
 
----
-
 ##  5. Logical Operators
 
 | Operator | Use |
@@ -61,14 +51,10 @@ Python evaluates conditions from top to bottom and executes the first true condi
 | `or` | At least one true |
 | `not` | Reverses condition |
 
----
-
 ##  6. Importance of Indentation
 
 Python uses indentation to define code blocks.  
 Incorrect indentation results in errors.
-
----
 
 ##  7. Applications of Conditional Statements
 
@@ -81,8 +67,6 @@ Incorrect indentation results in errors.
 - Vowel/Consonant check  
 
 Conditional statements help simulate real-life decision making in programs.
-
----
 
 #  Algorithms (DIY Questions Only)
 
