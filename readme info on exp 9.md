@@ -326,18 +326,6 @@ np.dot(A, A)
 
 ---
 
-# 📝 Algorithm
-
-1. Import NumPy library.
-2. Create 1D and 2D arrays using `np.array()`.
-3. Determine array properties (dimension, size, shape, datatype).
-4. Generate special matrices using built-in functions.
-5. Perform arithmetic operations on arrays.
-6. Apply statistical functions.
-7. Perform linear algebra operations such as transpose, determinant, inverse, and matrix multiplication.
-
----
-
 # 📊 Observations
 
 * NumPy arrays are more efficient than Python lists.
@@ -347,7 +335,7 @@ np.dot(A, A)
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 The experiment successfully demonstrated the functionality of the NumPy library for array creation, manipulation, statistical analysis, and linear algebra operations.
 
