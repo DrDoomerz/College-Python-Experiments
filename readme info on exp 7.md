@@ -214,5 +214,5 @@ The while loop proved to be powerful for solving problems where the number of it
 # 👨‍💻 Author
 
 **Rachit Jajoo**  
-ENTC Engineering  
+Electronics and Telecommunications
 Symbiosis Institute of Technology, Pune
