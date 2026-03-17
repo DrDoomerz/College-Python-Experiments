@@ -1,14 +1,14 @@
-# 🧪 Experiment 9 – Study of NumPy Library
+# Experiment 9 – Study of NumPy Library
 
 ---
 
-## 🎯 Aim
+## Aim
 
 To study the NumPy library in Python and understand array creation, array properties, mathematical operations, statistical functions, and basic linear algebra operations using NumPy.
 
 ---
 
-## 📚 Theory
+## Theory
 
 ### 🔹 Introduction to NumPy
 
