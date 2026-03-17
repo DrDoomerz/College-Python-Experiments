@@ -269,7 +269,12 @@ The experiment helped in:
 Thus, Pandas proves to be an essential tool for **data analysis and preprocessing** in real-world applications such as data science and machine learning.
 
 ---
+# Dataset used for reference: 
+<img width="1119" height="789" alt="image 1" src="https://github.com/user-attachments/assets/e5ca785b-55d9-4e64-9f10-c19946234848" />
+<img width="1121" height="794" alt="image 2" src="https://github.com/user-attachments/assets/d04cbac2-d819-424b-9d53-460d7c9c7176" />
+<img width="1121" height="791" alt="image 3" src="https://github.com/user-attachments/assets/3230a972-3425-49bd-8aa8-63b0274ac837" />
 
+---
 ## 👨‍💻 Author
 
 **Rachit Jajoo**
