@@ -5,7 +5,7 @@
 To create a dataset using Python, save it as a CSV file, and perform various operations using the **Pandas library**, including loading datasets, exploring structure, and analyzing data.
 
 ---
-## Note: This experiment contains a dataset that was used in a file seperately. It can be found by the name of Cars93.csv within the repository itself. 
+## Note: This experiment contains a dataset that was used in a file seperately. It can be found by the name of Cars93.csv within the repository itself. However, incase that file cannot be accessed, the data is provided at the end for reference as well. 
 
 ## Theory
 
