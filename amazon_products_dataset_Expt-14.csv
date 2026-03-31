@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Price,Rating,Reviews,Units_Sold
+P101,Wireless Mouse,799,4.3,1520,350
+P102,Bluetooth Speaker,1499,4.5,980,220
+P103,USB Keyboard,699,4.1,870,180
+P104,Gaming Headset,2499,4.6,2100,410
+P105,Smartwatch,3999,4.4,3050,520
+P106,Power Bank,1199,4.2,1750,390
+P107,Laptop Stand,899,4.0,620,140
+P108,Webcam,1899,4.3,1120,260
+P109,Portable SSD,5499,4.7,1850,330
+P110,Wireless Charger,999,4.2,760,190
+P111,Noise Cancelling Headphones,7999,4.6,4200,610
+P112,Mechanical Keyboard,4599,4.5,2100,290
+P113,Gaming Mouse,1599,4.4,1300,340
+P114,Tablet Stand,699,4.1,540,120
+P115,USB Hub,899,4.2,870,200
+P116,External Hard Drive,6499,4.6,2300,310
+P117,Smartphone Tripod,1199,4.3,760,210
+P118,Laptop Backpack,1999,4.4,1600,420
+P119,Bluetooth Earbuds,2999,4.5,3500,530
+P120,LED Desk Lamp,1299,4.3,980,260
+P121,Phone Holder,499,4.0,420,150
+P122,Wireless Keyboard,2499,4.4,1450,310
+P123,Portable Monitor,8999,4.6,1250,170
+P124,Smart Plug,799,4.2,720,210
+P125,WiFi Router,3499,4.5,2100,390
+P126,Graphics Tablet,4599,4.4,980,160
+P127,VR Headset,12999,4.7,3100,140
+P128,Microphone,2199,4.3,1300,270
+P129,Smart Light Bulb,699,4.2,880,240
+P130,Laptop Cooling Pad,1499,4.3,990,260
+P131,Action Camera,9999,4.6,2100,200
+P132,Smart Doorbell,5999,4.5,1750,180
+P133,Streaming Stick,3499,4.4,2500,430
+P134,Portable Projector,11999,4.6,1450,120
+P135,Gaming Chair,15999,4.7,2100,90
+P136,Desk Organizer,599,4.1,450,160
+P137,USB Flash Drive,799,4.2,900,320
+P138,Phone Screen Protector,299,4.0,600,380
+P139,Laptop Sleeve,999,4.3,720,210
+P140,Wireless Presenter,1499,4.4,520,130
+P141,Tablet Keyboard Case,2999,4.5,850,150
+P142,Smart Thermostat,10999,4.6,1200,110
+P143,Security Camera,4999,4.4,2100,260
+P144,Drone Camera,24999,4.7,1800,70
+P145,Electric Kettle,1999,4.3,1400,310
+P146,Air Fryer,7999,4.6,2200,200
+P147,Robot Vacuum,18999,4.5,1650,120
+P148,Smart Scale,2499,4.4,980,170
+P149,Digital Photo Frame,3499,4.3,870,150
+P150,Portable Fan,999,4.2,760,240

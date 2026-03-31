@@ -1,0 +1,11 @@
+Roll_No,Gender,Department,CGPA,Number_of_Backlogs,Attendance_Percentage,Placement_Status,Salary
+101,Female,Computer,8.2,0,92,Placed,450000
+102,Male,IT,7.5,1,85,Not Placed,0
+103,Female,ENTC,9.1,0,96,Placed,550000
+104,Male,Mechanical,6.8,2,78,Not Placed,0
+105,Female,Computer,8.7,0,88,Placed,480000
+106,Male,Civil,7.2,3,72,Not Placed,0
+107,Female,IT,8.9,0,91,Placed,500000
+108,Male,Computer,6.5,1,80,Not Placed,0
+109,Female,ENTC,7.8,0,84,Placed,420000
+110,Male,Mechanical,7,2,76,Not Placed,0
