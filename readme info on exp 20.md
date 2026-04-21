@@ -350,7 +350,12 @@ The following tasks were successfully performed:
 The experiment successfully demonstrated COVID-19 data analysis using Python. Real-world global pandemic data was cleaned, transformed, and analyzed to extract meaningful insights such as confirmed cases, recoveries, deaths, active cases, top affected countries, and Indian state-wise statistics. Interactive choropleth maps further improved understanding of regional spread. This experiment highlights the importance of data science in healthcare analytics and crisis management.
 
 ---
+### Here are the images output in the experiment that is for some reason not displaying on the actual file:
+<img width="1280" height="452" alt="image" src="https://github.com/user-attachments/assets/b0f9b3de-a952-4cde-ada7-345453a6a1e3" />
+<img width="1273" height="424" alt="image" src="https://github.com/user-attachments/assets/072e65c4-1290-48cb-91d7-2700370e896b" />
+<img width="1727" height="581" alt="image" src="https://github.com/user-attachments/assets/f5b084c4-ecfc-4a1e-ba34-3b0e6a165116" />
 
+---
 ## 👨‍🎓 Student Details
 
 - **Name:** Rachit Jajoo  
@@ -358,6 +363,3 @@ The experiment successfully demonstrated COVID-19 data analysis using Python. Re
 - **Branch:** Electronics and Telecommunication (ENTC)  
 - **Batch:** B1  
 - **Institute:** Symbiosis Institute of Technology, Pune
-
----
-```
